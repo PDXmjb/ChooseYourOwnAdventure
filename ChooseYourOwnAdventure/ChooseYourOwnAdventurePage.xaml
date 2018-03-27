@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ChooseYourOwnAdventure" x:Class="ChooseYourOwnAdventure.ChooseYourOwnAdventurePage">
+    <StackLayout>
+        <Label Text="Choose Your Own Adventure!" HorizontalTextAlignment="Center" TextColor="Green" FontSize="40" BackgroundColor="Gold" HeightRequest="100" VerticalTextAlignment="Center"/>
+
+        <Button Text="New Game"></Button>
+        <Button x:Name="LoadButton" Text="Load Game"></Button>
+    </StackLayout>
+
+</ContentPage>

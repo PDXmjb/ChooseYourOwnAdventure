@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ChooseYourOwnAdventure.LoadGame">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Load Game" HorizontalOptions="Center" VerticalTextAlignment="Center" FontSize="40" HeightRequest="100"></Label>
+            <Button Text="Game 1" FontSize="30" HeightRequest="200" BorderColor="Gray" BorderWidth="2" BorderRadius="5" BackgroundColor="Silver" Margin="8" TextColor="#FFF" ></Button>
+            <Button Text="Game 1" FontSize="30" HeightRequest="200" BorderColor="Gray" BorderWidth="2" BorderRadius="5" BackgroundColor="Silver" Margin="8" TextColor="#FFF" ></Button>
+            <Button Text="Game 1" FontSize="30" HeightRequest="200" BorderColor="Gray" BorderWidth="2" BorderRadius="5" BackgroundColor="Silver" Margin="8" TextColor="#FFF" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
